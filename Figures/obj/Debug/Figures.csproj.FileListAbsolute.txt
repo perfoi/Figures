@@ -1,0 +1,12 @@
+C:\Users\Павел\Desktop\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\Павел\Desktop\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\Павел\Desktop\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.FormTask.resources
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.Cache
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\Павел\Desktop\Figures\Figures\obj\Debug\Figures.pdb
+C:\Users\Admin\Desktop\ЯиСП\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\Admin\Desktop\ЯиСП\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\Admin\Desktop\ЯиСП\Figures\Figures\obj\Debug\Figures.pdb
